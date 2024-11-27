@@ -12,3 +12,6 @@
 - ##### https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7/solutions/cpp
 
 3. ### Algoritmo con Estructura No-Lineal
+#### Fuente: CodeWars, Nombre: Fun with trees: array to tree
+- ##### https://youtu.be/yIsaOZZeREA
+- ##### https://www.codewars.com/kata/57e5a6a67fbcc9ba900021cd/solutions/cpp
