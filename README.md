@@ -3,8 +3,9 @@
 ## Aquí se pueden encontrar las ligas al video de youtube/problema en su plataforma para cada uno de los 3 problemas elegidos.
 
 1. ### Algoritmo de Ordenamiento
-
-
+#### Fuente: CodeWars, Nombre: Wave Sort
+- ##### https://youtu.be/vppdkQAf5es
+- ##### https://www.codewars.com/kata/596f28fd9be8ebe6ec0000c1/solutions/cpp
 
 2. ### Algoritmo con Estructura Lineal
 #### Fuente: CodeWars, Nombre: Battle Field Validator
